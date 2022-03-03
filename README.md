@@ -24,7 +24,7 @@ Next Target :- Show Graph and Pie Chart
 
 ## 📸 Screenshots
 
-wait....
+wait..
 
  
   <h2 align="center">📝 Created by </h2>
